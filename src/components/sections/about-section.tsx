@@ -24,7 +24,7 @@ export function AboutUsSection() {
             <Card className="overflow-hidden shadow-xl">
               <CardContent className="p-0">
                 <Image
-                  src="https://storage.googleapis.com/rsr_accounting/rsr_accounting_about_live.jpg"
+                  src="https://storage.googleapis.com/rsr_accounting/rsr_about_live.jpg"
                   alt="About RSR Accounting"
                   width={600}
                   height={400}
